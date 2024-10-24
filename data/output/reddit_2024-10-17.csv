@@ -1,0 +1,263 @@
+id,title,selftext,score,num_comments,author,created_utc,url,upvote_ratio,over_18,edited,spoiler,stickied
+1g5k8nm,Which industry pays the highest compensation for data professionals,"Just wanted to know which industry pays the highest compensation for data professionals and what are the criterias to set foot in those industries? I have some interest in the commodities market, so if anyone can let me know whether there is demand for data professionals in commodities/financial market. 
+",35,29,Ayonabha,17/10/2024 6:04,https://www.reddit.com/r/dataengineering/comments/1g5k8nm/which_industry_pays_the_highest_compensation_for/,0.77,FALSE,FALSE,FALSE,FALSE
+1g5788f,"For those of you who have moved into management (and beyond), would/did you consider having an MBA useful for career progression?",See title.,23,16,x1084,16/10/2024 19:02,https://www.reddit.com/r/dataengineering/comments/1g5788f/for_those_of_you_who_have_moved_into_management/,0.88,FALSE,FALSE,FALSE,FALSE
+1g59exj,AI engineering or Data Engineering ,Has been thinking between both lately. I'm switching gears from Finance. Any advice?,13,27,Tayvodenn18,16/10/2024 20:37,https://www.reddit.com/r/dataengineering/comments/1g59exj/ai_engineering_or_data_engineering/,0.67,FALSE,FALSE,FALSE,FALSE
+1g5b9zt,dbt cloud non-profit pricing?,"Anyone using dbt cloud as a non-profit? Just wondering if they have any deals. I know we'd be fine with dbt-core, but some parts of the company will be more comfortable with a fully supported solution so I figured I'd ask. ",11,11,seaefjaye,16/10/2024 21:57,https://www.reddit.com/r/dataengineering/comments/1g5b9zt/dbt_cloud_nonprofit_pricing/,0.83,FALSE,FALSE,FALSE,FALSE
+1g5n7sy,Any former data analyst who switched to DE? How did you do it?,"I'm kind of being asked to join this project, I have no clue about Data Engineering in all honesty.
+ETL, Databricks, Azure was the words thrown around. Should I just say I can't? ",11,10,hayleybts,17/10/2024 9:52,https://www.reddit.com/r/dataengineering/comments/1g5n7sy/any_former_data_analyst_who_switched_to_de_how/,0.7,FALSE,FALSE,FALSE,FALSE
+1g5p2t6,What do you think: Azure Synapse,"Hey everyone, Azure Synapse is a platform that brings together data warehousing and big data analytics. It allows you to run queries on both structured data (such as SQL databases) and unstructured data (like files or logs) without moving data between different systems. You can work with SQL and Apache Spark side by side, making it useful for a wide range of data analytics tasks, from handling large datasets to creating real-time dashboards with Power BI.
+
+ 
+
+Has anyone here used Azure Synapse in their projects? I’d love to hear how it's been working for you or if there’s a specific feature you found especially useful!",8,10,Innvolve,17/10/2024 11:53,https://www.reddit.com/r/dataengineering/comments/1g5p2t6/what_do_you_think_azure_synapse/,1,FALSE,FALSE,FALSE,FALSE
+1g57gfx,Open Source Technology Stack,"I came across this site for building a developer platform using open source technologies
+
+https://cnoe.io/
+
+Is there an equivalent site for building a data platform. Things like metadata management, etl, streaming, scheduling and orchestration, etc. ",8,3,CDCheerios,16/10/2024 19:12,https://www.reddit.com/r/dataengineering/comments/1g57gfx/open_source_technology_stack/,0.84,FALSE,FALSE,FALSE,FALSE
+1g5t5ck,𝐋𝐢𝐧𝐤𝐞𝐝𝐈𝐧 𝐃𝐚𝐭𝐚 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤 ,"Previously, I wrote and shared Netflix, Uber and Airbnb. This time its LinkedIn.
+
+LinkedIn paused their Azure migration in 2022, meaning they are still using lot of open source tools, mostly built in house, Kafka, Pinot and Samza are popular ones out there.
+
+I tried to put the most relevant and popular ones in the image. They have lot more tooling in their stack. I have added reference links as you read through the content. If you think I missed an important tool in the stack, comment please.
+
+If interested in learning more, reasoning, what and why, references, please visit: [https://www.junaideffendi.com/p/linkedin-data-tech-stack?r=cqjft&utm\_campaign=post&utm\_medium=web](https://www.junaideffendi.com/p/linkedin-data-tech-stack?r=cqjft&utm_campaign=post&utm_medium=web)
+
+Let me know which companies stack would you like to see in future, I have been working on Stripe for a while but having some challenges in gathering info, if you work at Stripe and want to collaborate, lets do :)
+
+[Tableau, Kafka, Beam, Spark, Samza, Trino, Iceberg, HDFS, OpenHouse, Pinot, On Prem](https://preview.redd.it/wse54gejzbvd1.jpg?width=1456&format=pjpg&auto=webp&s=8c61b90be8d49f0fb453cc20c2df8d8112bf29b5)",9,20,mjfnd,17/10/2024 15:10,https://www.reddit.com/r/dataengineering/comments/1g5t5ck/𝐋𝐢𝐧𝐤𝐞𝐝𝐈𝐧_𝐃𝐚𝐭𝐚_𝐓𝐞𝐜𝐡_𝐒𝐭𝐚𝐜𝐤/,0.74,FALSE,FALSE,FALSE,FALSE
+1g5mzuc,How would you deal with this project?,"I was placed on a one-month PoC project, as an Azure Engineer, expecting to work with Azure. After one week, they decided to work with AWS. That week was lost.
+
+I have a friend who has three years AWS experience, and he took a few hours of his time to help me. He repeatedly told me that the network settings of this account are really weird, and we spend quite a lot of time troubleshooting and building infrastructure, instead of doing anything to the data. 
+
+The client is now mad at me, and constantly asks for exact dates when everything will be ready. An experienced Engineer from the client actually started helping me, and we spend another week together troubleshooting one of his API Callers, that just does not want to fit in the Lambda function we are now building. 
+
+The infrastructure is still an incomplete mess. The data is untouched, because it cannot be loaded properly due to these really odd networking issues, which a guy with three years AWS experience can't fix quickly. There is only today and tomorrow left. The client is unhappy. 
+
+They want to keep me longer, but I really just want to leave this mess behind. ",6,10,BewitchedHare,17/10/2024 9:35,https://www.reddit.com/r/dataengineering/comments/1g5mzuc/how_would_you_deal_with_this_project/,0.81,FALSE,FALSE,FALSE,FALSE
+1g58lov,Data Engineering Grad Student Advice ,"
+Hello Everyone I’m looking for some advice from Engineers :)
+
+I am going back school for a technical master’s degree.  My main career goal is to become a Data Engineer.
+
+Currently, I have a few years of experience as a Business System Analyst. Here’s a few questions I have for Data Engineers: 
+
+
+1.) Would you choose a Computer Science, Data Science or Management Information Systems degree? 
+
+2.) What certifications do you recommend?
+
+3.) Should I focus on a graduate degree, certifications, or work experience in this field? 
+
+4.) How do you stand out to contractors? 
+
+
+
+
+
+",6,9,AlternativeOk8257,16/10/2024 20:02,https://www.reddit.com/r/dataengineering/comments/1g58lov/data_engineering_grad_student_advice/,0.8,FALSE,FALSE,FALSE,FALSE
+1g5qj53,Recommend book for Machine Learning in Data Warehouse?,"I'm a student and in the future will work on a thesis for my company, in which I have to build a data warehouse, and the later part is implementing machine learning. I already have some knowledge in building a data model for a data warehouse, but no idea about the machine learning part. Can you recommend a book in this topic?",3,2,quantanhoi,17/10/2024 13:11,https://www.reddit.com/r/dataengineering/comments/1g5qj53/recommend_book_for_machine_learning_in_data/,0.8,FALSE,FALSE,FALSE,FALSE
+1g5th3q,Upskiling as Data Engineers,"Hello, i was thinking of making a small whatsapp group with a mix of Data Engineers and Data Analysts, to help each other, mentor, give guidance, troubleshoot, stay up to date with latest tech stack, share experiences ideas, and who knows maybe in the future setting up a startup between us, it would be small with few people to make us feel like a family
+
+What do you think?
+
+Share with us how many YOE u have, you current role, and your weak points
+
+If you are interested send me a dm directly with the infos above, thanks guys!!",6,2,HMZ_PBI,17/10/2024 15:24,https://www.reddit.com/r/dataengineering/comments/1g5th3q/upskiling_as_data_engineers/,1,FALSE,FALSE,FALSE,FALSE
+1g5b1lp,[SQL] How can I create two streams for low and high latency data meanwhile ensuring data is aligned? ,"I'm a one person band in a medium size company.
+I'm the guy in charge of data, thus I support with spreadsheets and create very rudimentary pipelines.
+
+I need to put together some data pipelines that can enable different teams to browse either fresh low latency data or historical high latency data, however the focus is ensuring that the data is 100% aligned.
+
+Without having access to any specific tool or myself having any excellent skill ( for example I cannot do python), how can I achieve the above with just SQL and without having to store the same code twice?
+
+For example, if I have a very basic sales KPI which is
+Select 
+CustomerID
+,channel
+,item
+, country 
+,sum(sales)
+From data.warehouse.sales.events
+Group by 1,2,3,4
+
+How can I with just one SQL code ( to ensure data alignment and reduce maintenance) crate two streams, one with views for low latency and the second one with partitioned tables for 3years of KPI history?
+Thanks ",3,8,_thetrue_SpaceTofu,16/10/2024 21:46,https://www.reddit.com/r/dataengineering/comments/1g5b1lp/sql_how_can_i_create_two_streams_for_low_and_high/,0.81,FALSE,FALSE,FALSE,FALSE
+1g54myd,Fetching Salesforce streaming data using pub/sub api,"Hey All,
+
+I’m trying to employ salesforce pub/sub api’s to write salesforce streaming data into S3 buckets and query the data using Athena. 
+
+This is something new and I’m  struggling to setup an end to end flow using AWS services. Has anyone worked in the past with Pub/Sub api’s and what services in AWS I can use to setup an end to end flow and dump the data into S3.
+
+Any insights or directions much appreciated!",3,3,Competitive_Wheel_78,16/10/2024 17:13,https://www.reddit.com/r/dataengineering/comments/1g54myd/fetching_salesforce_streaming_data_using_pubsub/,0.81,FALSE,FALSE,FALSE,FALSE
+1g5tlsy,(Must Read) How to get 100x query performance improvement with BigQuery history-based optimizations,,2,0,OpenWeb5282,17/10/2024 15:30,https://cloud.google.com/blog/products/data-analytics/new-bigquery-history-based-optimizations-speed-query-performance,0.75,FALSE,FALSE,FALSE,FALSE
+1g5sojf,Connecting PowerBI to AWS RDS PostgreSQL,"We have a data lake housed inside AWS EKS which uses Apache Superset as its visualization tool and is connected to a PostgreSQL database. Apache Spark is used to push the data to the database. We are currently in the process of integrating PowerBI as a replacement for Superset but is having difficulty with connecting it to the database. 
+
+I tried searching and the most promising answer was to use Npgsql package to make PostgreSQL visible to PowerBI desktop as a data source. 
+
+We are also playing around the idea of scrapping PostgreSQL and shifting the database to Azure for a seamless integration with PowerBI. 
+
+We do not yet plan to fully migrate to an Azure ecosystem but is open to the possibility.
+
+My questions are: 
+1. Should we stick to the AWS RDS PostgreSQL approach or should we shift that part to Azure?
+2. Is there any other method for us to push data into PowerBI?",2,0,bjatz,17/10/2024 14:50,https://www.reddit.com/r/dataengineering/comments/1g5sojf/connecting_powerbi_to_aws_rds_postgresql/,1,FALSE,FALSE,FALSE,FALSE
+1g5rs8m,Need Guidance in Moving Further.,"As a software engineer in one of the service based company, i often prepare the ETL pipelines taking the data from the hive warehouse with the help of HiveQL files, executed by Unix scripting files. Upon successful processing of the data, will dump the data into the Mysql through sqoop export ,Which are auomated through oozie. These are my daily activities.
+
+Now i wanted to upskill and cross skill myself in the data engineering, by seeing the overwhelming technologies and tools, getting confused. Any help is deeply appreciated.",2,0,Unable-Towel5096,17/10/2024 14:10,https://www.reddit.com/r/dataengineering/comments/1g5rs8m/need_guidance_in_moving_further/,1,FALSE,FALSE,FALSE,FALSE
+1g5qv7f,Existing tools for Workplace to Viva Engage migration,"Hi all, I hope this is the right place to ask this. (Please let me know if there's a more fitting sub.)
+
+I'm currently researching tools for a migration from Workplace by Meta to Viva Engage for a client, and am finding relatively limited results. Do you know of any tools for a migration of this kind? Thanks!",2,0,magb123,17/10/2024 13:27,https://www.reddit.com/r/dataengineering/comments/1g5qv7f/existing_tools_for_workplace_to_viva_engage/,1,FALSE,FALSE,FALSE,FALSE
+1g5pvg1,Distributed Databases vs multiple databases,Why companies use multiple relational databases instead of just having one distributed database? ,2,1,sayyad4b,17/10/2024 12:37,https://www.reddit.com/r/dataengineering/comments/1g5pvg1/distributed_databases_vs_multiple_databases/,1,FALSE,FALSE,FALSE,FALSE
+1g5ovje,"New DWH: SAP Datasphere, BW/4HANA, Azure Databricks, Microsoft Fabric, AWS Redshift, or Snowflake?","I'm trying to find the best data warehousing/data platform solution for a medium to large sized company. I'm investigating the following solutions: 
+
+* SAP Datasphere
+* SAP BW/4HANA
+* Azure Databricks
+* Microsoft Fabric
+* AWS Redshift
+* Snowflake
+
+Some context about my company:
+
+* We currently work in SAP BW 7.5
+* The source system currently is SAP ECC, but we will go to SAP S/4HANA in the future
+* The reporting is currently done in AfO (Excel), Power BI, Tableau, SAP Crystal Reports, and SAP Web Reporting. The plan is to completely change to Power BI in the future, but this will take time. 
+* SAP IP is still thoroughly used, and will need a lot of adjustments when implementing a new tool.
+
+Now, I'm trying to find the best solution.   
+  
+What tools would you recommend to consider? What requirements and tool characteristics shouldn't I forget in my analysis? Thanks!",2,1,chrissienator,17/10/2024 11:41,https://www.reddit.com/r/dataengineering/comments/1g5ovje/new_dwh_sap_datasphere_bw4hana_azure_databricks/,0.75,FALSE,FALSE,FALSE,FALSE
+1g5nt12,Azure Analysis services or SSAS Tabular ,"Hi guys i have a question.
+The Bi Architecture that 
+I have been taught is that 
+- we use SSIS for ETL  from the operational database into our datawarehouse.
+- and then we use SSAS ( Tabular/Cube ) for faster analytics.
+Before connecting it to Power Bi
+- i have an internship within a company that is currently migrating To Azure Cloud
+And i have just heard about Azure Analysis Services.
+Which made me think that what i have been taught is old.
+So do we move directly into the Azure Analysis from our data warehouse built in Sql Server.
+
+Or we have to build our SSAS Tabular Model first and then deploy it to Azure Analysis Services ?
+Please comment with any info you know
+Because i have never used Azure Cloud.
+
+",2,0,Pretend-Chemical-233,17/10/2024 10:33,https://www.reddit.com/r/dataengineering/comments/1g5nt12/azure_analysis_services_or_ssas_tabular/,1,FALSE,FALSE,FALSE,FALSE
+1g5lidf,"Functional World #12 | How to handle things in your project without DevOps around?
+","This time during Functional World event, we're stepping a bit outside of functional programming while still keeping developers' needs front and center! The idea for this session actually came from our own team at Scalac, and we thought it was worth sharing with a wider audience :) We hope you'll find it valuable too, especially since more and more projects these days don't have enough dedicated DevOps support.
+
+Check out more details about the event here: [https://www.meetup.com/functionalworld/events/304040031/?eventOrigin=group\_upcoming\_events](https://www.meetup.com/functionalworld/events/304040031/?eventOrigin=group_upcoming_events)
+
+",3,0,ComprehensiveSell578,17/10/2024 7:39,https://www.reddit.com/r/dataengineering/comments/1g5lidf/functional_world_12_how_to_handle_things_in_your/,0.71,FALSE,FALSE,FALSE,FALSE
+1g5iupe,Could you please provide some help on this event processing architecture?,"We need to make a system to store event data from a large internal enterprise application.  
+This application produces several types of events (over 15) and we want to group all of these events by a common event id and store them into a mongo db collection.
+
+My current thought is receive these events via webhook and publish them directly to kafka.
+
+Then, I want to partition my topic by the hash of the event id.
+
+Finally I want my consumers to poll all events ever 1-3 seconds or so and do singular merge bulk writes potentially leveraging the kafka streams api to filter for events by event id.
+
+My thinking is this system will be able to scale as the partitions should allow us to use multiple consumers and still limit write conflicts.
+
+We need to ensure these events show up in the data base in no more than 4-5 seconds and ideally 1-2 seconds. We have about 50k events a day. We do not want to miss \*any\* events.
+
+Do you forsee any challenges with this approach?
+
+  
+EDIT: We have 15 types of events and each of them can be grouped by a common identifier key. Lets call it the group\_id. These events occur in bursts so there may be up to 30 events in 0.5 seconds for the same group\_id. We need to write all 30 events to the same mongo document. This is why I am thinking that some sort of merge write is necessary with paritoning/polling. Also worth noting the majority of events occur during 3-4 hour window.",3,4,Accomplished_Sky_127,17/10/2024 4:35,https://www.reddit.com/r/dataengineering/comments/1g5iupe/could_you_please_provide_some_help_on_this_event/,0.67,FALSE,FALSE,FALSE,FALSE
+1g5hxer,strategies for managing templated inputs to airflow operators,"# TLDR: 
+
+What strategies do people use to manage templated inputs to operators in airflow?
+
+
+
+There are 2 strategies used at work (excuse the pseudocode):
+
+# 1. create functions for your user_defined_macros and call these functions in a template string.
+
+
+
+    def get_input_table():
+        return Variable.get(""DAG_INPUT_TABLE"")
+    def get_output_table_prefix():
+        return Variable.get(""DAG_OUTPUT_TABLE_PREFIX"")
+    def get_full_output_table_name(prefix, ds_nodash):
+        return prefix + ""_"" + ds_nodash
+    
+
+But many of the GCP operators want separate inputs for dataset and table so we have some utilities loaded as macros for this:
+
+
+
+    insert_job = BigQueryInsertJobOperator(task_id=""insert_job"",
+    configuration = dict(type='query',
+                         query=f""""""{{{{ SELECT * FROM {get_input_table()} }}}}"""""",
+                         project_id='dev',
+                         dataset_id=""{{ macros.utils.get_dataset_from_table_id(get_full_output_table_name(get_output_table_prefix(), ds_nodash)) }}"",
+                        table_id=""{{ macros.utils.get_table_name_from_table_id(get_full_output_table_name(get_output_table_prefix(), ds_nodash)) }}""
+    ))
+
+
+
+this starts to get pretty hard to read but is great for modularity and limiting the number of af variables needed
+
+# 2. some people like to have every part of the output tableid as separate variables
+
+    OUTPUT_TABLE_DATASET = ""{{ Variable.get(""DAG_OUTPUT_DATASET"") }}""
+    OUTPUT_TABLE_TABLENAME = ""{{ Variable.get(""DAG_OUTPUT_TABLENAME"") }}""
+    INPUT_TABLE=""{{ Variable.get(""DAG_INPUT_TABLE_ID"") }}""
+    
+    insert_job = BigQueryInsertJobOperator(task_id=""insert_job"",
+                                          configuration = dict(type='query',
+                                                              query=f""""""{{{{ SELECT * FROM {INPUT_TABLE} }}}}"""""",
+                                                            project_id='dev',
+                                                            dataset_id=OUTPUT_TABLE_DATASET,
+                                                            table_id=OUTPUT_TABLE_TABLENAME
+    ))
+
+This looks cleaner in the task code but there are dozen's of lines of boilerplate at the top and the AF variable UI gets overloaded to the point its hard to pinpoint which variable you need to change (when you need to configure it).
+
+# 3. (bonus)
+
+There is also some hybrid of the 2 where you start with functions for a variable for the whole resource name and then create variables for each piece. You still get autocomplete in your ide and the code is reasonably clear (assuming you can come up with a good naming scheme for all your variables) but again you have 50+ lines of setup
+
+# Question
+
+**Anyone have any other patterns they find work well at balancing AF variables, modularity, code clarity, ide autocompletion?** I've tried to come up with a pattern, eg using dataclasses where you can load a single variable and then have properties for each piece that is needed but keeping variables templated is really tricky.
+
+Ideally I could use it like:
+
+    ...
+    export_location=ExportLocation(get_input_table_prefix, get_full_input_table)
+    ...
+    insert_job = BigQUeryInsertJobOperator(
+    ...
+    dataset_id = export_location.dataset,
+    table_id = export_location.table
+    ))
+
+The only success I've had is creating methods that are jinja builders (string by string) but its pretty heinous. I tried implementing lazy evaluation for a property but couldn't get that to work. I was reading about MetaClasses but admittedly thats above my skillz. Based on my understanding you basically need either 1. a way for the instance to return itself so it can run in the jinja environment or 2. a way for the property to return just the relevant method to run in the jinja environment.
+
+",2,1,dschneider01,17/10/2024 3:39,https://www.reddit.com/r/dataengineering/comments/1g5hxer/strategies_for_managing_templated_inputs_to/,0.76,FALSE,FALSE,FALSE,FALSE
+1g5pfr2,Data Quality Automation at Twitter,,1,1,OpenWeb5282,17/10/2024 12:13,https://blog.x.com/engineering/en_us/topics/infrastructure/2022/data-quality-automation-at-twitter,0.6,FALSE,FALSE,FALSE,FALSE
+1g5mssm,Data Engineering interviews for someone with seriously 0 experience,"Hi I did a 4 year bachelors in CS and master's in data analytics. I did 2 internships during my bachelors and one during my master's but the internships in bachelors were software related and the one in master's was just pyspark and that too for 10 weeks 
+
+So in short I know nothing but the problem is us job market is quite tough 
+
+I have change the software developer experience in my reume to Data Engineer and instead of intern I have added fulltime and have some knowledge of DE by doing online courses 
+
+1. Since I dont have industry experience for DE Are there any resources which can help ? 
+
+2. How tough would be the interviews ? Do they ask questions like case study and system design for less experience also ? Any resources for that too? 
+
+
+
+Please do not tell me to not fake experience or something that like that The job market is seriously tough and without experience there is no one getting jobs in usa (plus you need sponsorships too) 
+
+",0,12,Dry-Product8194,17/10/2024 9:20,https://www.reddit.com/r/dataengineering/comments/1g5mssm/data_engineering_interviews_for_someone_with/,0.48,FALSE,FALSE,FALSE,FALSE
+1g57xov,Career help ,Hi. I have been interviewing for senior DE and AE. My goal is to become a STAFF. I am confused which path do I take to reach it . I know I want to be an individual contributor for a FAANG company. Thanks for the advice . ,0,0,spankbanggang,16/10/2024 19:33,https://www.reddit.com/r/dataengineering/comments/1g57xov/career_help/,0.33,FALSE,FALSE,FALSE,FALSE
+1g5pxg3,"Data Engineers, Here’s How LLMs Can Make Your Lives Easier",,0,6,Coresignal,17/10/2024 12:40,https://builtin.com/articles/data-engineers-llms-easier,0.37,FALSE,FALSE,FALSE,FALSE
+1g5rqa9,"Why I Stopped Teaching My Kids How To Code - And Why You Should, Too!",,0,8,sbalnojan,17/10/2024 14:08,https://www.thdpth.com/p/why-i-stopped-teaching-my-kids-how,0.05,FALSE,FALSE,FALSE,FALSE
